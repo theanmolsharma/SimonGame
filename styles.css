@@ -80,6 +80,13 @@ body {
 	}
 }
 @media (max-width:600px){
+	#level-title {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 2.5rem;
+  margin:  5%;
+  line-height:1.5;
+  color: #FEF2BF;
+}
     .container{
       width:80%;
     }
